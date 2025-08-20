@@ -1,11 +1,11 @@
 
-# Ecommerce API with Fast API Framework
+# Ecommerce Backend with Fast API Framework
 
-A simple Ecommerce API built with Fast API Framework
+A simple Ecommerce Backend built with Fast API Framework
 
 ## Table of Contents
 
-- [Ecommerce API with Fast API Framework](#ecommerce-api-with-fast-api-framework)
+- [Ecommerce Backend with Fast API Framework](#ecommerce-api-with-fast-api-framework)
   - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
   - [Features](#features)
@@ -28,7 +28,7 @@ A simple Ecommerce API built with Fast API Framework
 	- [ReDoc](https://ecommerce-jgao.onrender.com/redoc)
 
 - **Online Code**
-	- [Github1s](https://github1s.com/aliseyedi01/Ecommerce-Api)
+	- [Github1s](https://github1s.com/erraji-jo/ecommerce-fastapi-backend)
 
 - **Database**
 	- [dbdiagram](https://dbdiagram.io/d/6574832756d8064ca0b3b776)
@@ -114,7 +114,7 @@ A simple Ecommerce API built with Fast API Framework
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/aliseyedi01/Ecommerce-Api.git
+   git clone https://github.com/erraji-jo/ecommerce-fastapi-backend.git
    ```
 
 2. **Navigate to the project directory:**
